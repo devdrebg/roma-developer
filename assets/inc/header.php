@@ -27,7 +27,7 @@ define("CLIENT", "NOME DO CLIENTE DO PROJETO"); // DEFINE O NOME DO CLIENTE, O N
 	</head>
 	<body>
 		<a href="#" class="view-mirror"></a><!-- LINK DO ESPELHO, UTILIZANDO ESSA FERRAMENTA É POSSÍVEL COMPARAR O RESULTADO DO HTML COM UM .jpg OU .png DA TELA DO PROJETO  -->
-		<div class="mirror"><img src="<?php echo BASEPATH; ?>img/mirrors/home.png" alt=""></div><!-- CHAMADA .jpg OU .png DA TELA DO PROJETO  -->
+		<div class="mirror"><img src="<?php echo BASEPATH; ?>/assets/img/mirrors/home.png" alt=""></div><!-- CHAMADA .jpg OU .png DA TELA DO PROJETO  -->
 
 		<header>
 

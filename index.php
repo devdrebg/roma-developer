@@ -10,6 +10,6 @@ $description = ''; // DESCRIÇÃO DA PÁGINA
 
 ?>
 
-<?php require_once('inc/header.php') // CHAMADA DO CABEÇALHO ?>
+<?php require_once('assets/inc/header.php') // CHAMADA DO CABEÇALHO ?>
 
-<?php require_once('inc/footer.php') // CHAMADA DO RODAPÉ ?>
+<?php require_once('assets/inc/footer.php') // CHAMADA DO RODAPÉ ?>
